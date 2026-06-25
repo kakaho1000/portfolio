@@ -62,8 +62,8 @@ a {
 }
 
 .btn {
-  display: inline-block;
-  margin-bottom: 1rem;
+  display: inline;
+  margin-bottom: 10px;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -84,12 +84,12 @@ a {
   }
 
   @include large {
-    padding: 0.75rem 1rem;
+    //padding: 0.75rem 1rem;
   }
 
   @include medium {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem;
+    //padding: 0.6rem 0.9rem;
+    //font-size: 0.9rem;
   }
 
   @include small {
