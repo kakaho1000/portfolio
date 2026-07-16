@@ -1,7 +1,7 @@
 ---
 title: "Magnetic Levitator"
 header: 
-    teaser: /assets/images/maglev.png
+    teaser: /portfolio_images/maglev.png
 excerpt: "Machine shop project involving manual mill, lathe, and soldering."
 date_text: "Aug 2022"
 categories:
