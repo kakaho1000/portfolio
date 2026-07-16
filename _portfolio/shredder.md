@@ -26,6 +26,13 @@ Used MATLAB to calculate shear force and bending diagrams on shaft, as well as f
 Modelled blades and shaft in SOLIDWORKS. Performed static simulations on blades. Sourced parts from metal supermarkets and waterjet cut blades. Sourced needle roller thrust bearings, radial bearings, and flexible shaft coupling. Used 4140 Alloy Steel 12in from metal supermarket. 
 ![Shredder Blade](./assets/images/shredder_bending_diagram.png)
 
+<figure>
+  <a href="/portfolio/assets/images/shredder_bending_diagram.png" class="image-popup" title="Shredder Bending Diagram">
+    <img src="/portfolio/assets/images/shredder_bending_diagram.png">
+  </a>
+  <figcaption>Shredder bending diagram</figcaption>
+</figure>
+
 ### Results
 Specs
 
