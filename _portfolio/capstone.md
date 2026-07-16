@@ -1,7 +1,7 @@
 ---
 title: "Capstone 6DOF Prosthetic Hand"
 header:
-    teaser: /portfolio_images/capstone.jfif
+    teaser: /assets/images/capstone.jfif
 excerpt: "Electrical integration project adapting an industrial robotic hand for prosthetic use"
 date_text: "Apr 2026"
 categories:
@@ -26,13 +26,13 @@ During development, I performed testing on the robotic hand, troubleshooting wit
 The final project involved an electrode armband for demonstration at Design & Innovation Day. Users can select between two modes: direct control, where wrist flexion and extension lead to activation and deactivation of a predetermined gesture, or proportional control, where the amount the gesture is activated depends on the strength of the muscles activated.
 
 <video width="500" height = "400" controls>
-  <source src="/portfolio_images/capstonevid.mp4" type="video/mp4">
+  <source src="../assets/images/capstonevid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <figure>
-  <a href="/portfolio_images/capstoneposter.png" class="image-popup" title="Capstone Poster">
-    <img src="/portfolio_images/capstoneposter.png">
+  <a href="../assets/images/capstoneposter.png" class="image-popup" title="Capstone Poster">
+    <img src="../assets/images/capstoneposter.png">
   </a>
   <figcaption>Capstone Poster</figcaption>
 </figure>
