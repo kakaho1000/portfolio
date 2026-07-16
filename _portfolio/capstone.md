@@ -26,11 +26,11 @@ During development, I performed testing on the robotic hand, troubleshooting wit
 The final project involved an electrode armband for demonstration at Design & Innovation Day. Users can select between two modes: direct control, where wrist flexion and extension lead to activation and deactivation of a predetermined gesture, or proportional control, where the amount the gesture is activated depends on the strength of the muscles activated.
 
 <video width="500" height = "400" controls>
-  <source src="/assets/images/capstonevid.mp4" type="video/mp4">
+  <source src="./assets/images/capstonevid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<img src="/assets/images/capstoneposter.png" alt="Capstone Poster" style="width:500px">
+<img src="./assets/images/capstoneposter.png" alt="Capstone Poster" style="width:500px">
 
 
 

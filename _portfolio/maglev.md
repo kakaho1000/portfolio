@@ -22,7 +22,5 @@ The entire enclosure was manufactured in the machine shop, using mills, lathes, 
 ### Results
 Something something the hall effect sensor and ferrite core make a magnetic field. Bam
 
-Insert Gif here
-
 ### Retrospection
 What better way to teach students to not put in diabolical tolerances than having them machine parts themselves? I remember redoing a lathed part twice because I had overshot a cut... The machine shop portion of the practicum was very humbling. 
