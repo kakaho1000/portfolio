@@ -6,6 +6,8 @@ collection: portfolio
 entries_layout: grid
 author_profile: true
 classes: wide
+sort_by: date
+sort_order: reverse
 
 # excerpt: "Hello"
 # header:

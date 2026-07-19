@@ -3,7 +3,8 @@ title: "UBC Rapid Filament Shredder"
 header:
     teaser: /assets/images/shredder_blade_sim.png
 excerpt: "Design, calculations, and verification for shaft and blades for a PLA filament shredder"
-date_text: "Dec 2024"
+date_text: "Jan 2025"
+date: 2025-01-31
 categories:
   - Design Team
   - Complete

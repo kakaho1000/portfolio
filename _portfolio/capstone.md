@@ -4,6 +4,7 @@ header:
     teaser: /assets/images/capstone.jfif
 excerpt: "Electrical integration project adapting an industrial robotic hand for prosthetic use"
 date_text: "Apr 2026"
+date: 2026-04-07
 categories:
   - Class Project
   - Complete

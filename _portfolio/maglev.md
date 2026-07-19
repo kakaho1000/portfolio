@@ -4,6 +4,7 @@ header:
     teaser: /assets/images/maglev.png
 excerpt: "Machine shop project involving manual mill, lathe, and soldering."
 date_text: "Aug 2022"
+date: 2022-08-31
 categories:
   - Class Project
   - Complete

@@ -4,6 +4,7 @@ header:
     teaser: /assets/images/mech368image.jpg
 excerpt: "C# program and electrical circuit that calculates how far an LED is from a photodiode"
 date_text: "Nov 2023"
+date: 2023-11-30
 categories:
   - Class Project
   - Complete
