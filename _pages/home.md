@@ -17,19 +17,19 @@ sort_order: reverse
 #     - label: "More Info"
 #       url: "https://unsplash.com"
 
-gallery:
-  - url: /assets/images/hello.png
-    image_path: /assets/images/hello.png
-    alt: "placeholder image 1"
-    title: "UBC Esports Association Gaming Expo 2026"
-  - url: /assets/images/hello.png
-    image_path: /assets/images/hello.png
-    alt: "placeholder image 2"
-    title: "drawer"
-  - url: /assets/images/hello.png
-    image_path: /assets/images/hello.png
-    alt: "placeholder image 3"
-    title: placeholder
+# gallery:
+#   - url: /assets/images/hello.png
+#     image_path: /assets/images/hello.png
+#     alt: "placeholder image 1"
+#     title: "UBC Esports Association Gaming Expo 2026"
+#   - url: /assets/images/hello.png
+#     image_path: /assets/images/hello.png
+#     alt: "placeholder image 2"
+#     title: "drawer"
+#   - url: /assets/images/hello.png
+#     image_path: /assets/images/hello.png
+#     alt: "placeholder image 3"
+#     title: placeholder
 
 ---
 
@@ -37,7 +37,7 @@ gallery:
 
 <!-- ![image-left]({{ "/assets/images/aboutmephoto.jpg" | relative_url }}){: .align-left} -->
 
-Hello! I am a 2026 UBC Mechanical Engineering graduate from Vancouver, BC.
+Hello! I am a 2026 UBC Mechanical Engineering graduate from Vancouver, BC, and I'm looking for full-time work. I'm passionate about additive manufacturing, having worked with and designed for FDM 3D printers for 4 years. Check out some of my projects below!
 
 # Projects
 
