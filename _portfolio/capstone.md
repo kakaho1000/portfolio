@@ -1,7 +1,7 @@
 ---
 title: "Capstone 6DOF Prosthetic Hand"
 header:
-    teaser: /portfolio/assets/images/capstone3.jpg
+    teaser: /assets/images/capstone3.jpg
 excerpt: "Electrical integration project adapting an industrial robotic hand for prosthetic use"
 date_text: "Apr 2026"
 date: 2026-04-07
