@@ -1,7 +1,7 @@
 ---
 title: "Capstone 6DOF Prosthetic Hand"
 header:
-    teaser: /assets/images/capstone3.jpg
+    teaser: /portfolio/assets/images/capstone3.jpg
 excerpt: "Electrical integration project adapting an industrial robotic hand for prosthetic use"
 date_text: "Apr 2026"
 date: 2026-04-07
@@ -29,13 +29,12 @@ The final prototype involved an electrode armband that users can attach to their
   <source src="/portfolio/assets/images/capstonevid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<!-- 
 <figure>
   <a href="/portfolio/assets/images/capstoneposter.png" class="image-popup" title="Capstone Poster">
     <img src="/portfolio/assets/images/capstoneposter.png">
   </a>
-  <figcaption>Capstone Poster</figcaption>
-</figure>
+</figure> -->
 
 ### Retrospection
 As a mechanical engineering student not specializing in mechatronics or biomed, this project was a struggle, but also a fantastic learning opportunity. Through debugging Modbus RTU, designing a slip ring PCB, and creating a power delivery system with buck converters, I learned so much about electrical and software integration.
