@@ -1,8 +1,8 @@
 ---
 title: "UBC Rapid Filament Shredder"
 header:
-    teaser: /assets/images/shredder_blade_sim.png
-excerpt: "Design, calculations, and verification for shaft and blades for a PLA filament shredder"
+    teaser: /assets/images/shredder_assembly.png
+excerpt: "Design, verification, and sourcing of parts for filament shredding system"
 date_text: "Jan 2025"
 date: 2025-01-31
 categories:
@@ -15,27 +15,25 @@ tags:
 ---
 
 ### Goal 
-Design the shaft, blades and bushings/bearings for a filament shredder. The following assumptions were made conservatively 
+Design the shaft and blades for a filament shredder, sourcing other necessary parts like bearings or couplings. The following assumptions were made:
 
 - Only PLA will be shredded
 - The maximum thickness of PLA will be 5mm
 - The shredded material will make full contact with the blade's shredding area
 
 ### Process
+Research was done on typical filament shredders, including blade designs, number of blades, size, and typical issues. 
 Used MATLAB to calculate shear force and bending diagrams on shaft, as well as find minimum shaft diameter. 
 
-Modelled blades and shaft in SOLIDWORKS. Performed static simulations on blades. Sourced parts from metal supermarkets and waterjet cut blades. Sourced needle roller thrust bearings, radial bearings, and flexible shaft coupling. Used 4140 Alloy Steel 12in from metal supermarket. 
-![Shredder Blade](./assets/images/shredder_bending_diagram.png)
-
+Modelled blades and shaft in SOLIDWORKS. Performed static simulations on blades. Sourced parts from metal supermarkets and waterjet cut blades.
 <figure>
-  <a href="/portfolio/assets/images/shredder_bending_diagram.png" class="image-popup" title="Shredder Bending Diagram">
-    <img src="/portfolio/assets/images/shredder_bending_diagram.png">
+  <a href="/portfolio/assets/images/shredder_blade_sim.png" class="image-popup" title="Static Blade Simulation">
+    <img src="/portfolio/assets/images/shredder_blade_sim.png">
   </a>
-  <figcaption>Shredder bending diagram</figcaption>
 </figure>
 
 ### Results
-Specs
+The final design involved a hexagonal shaft with 15 dual-sided blades, mounted with needle roller thrust bearings and radial bearings. See updates on the project at https://ubc-rapid.com/#/filament_recycler 
 
 ### Retrospection
-Should have analyzed for resonant frequency, as well as fatigue. Shaft should be filleted at changes in diameter to reduce stress concentrations. 
+The system should have been analyzed to find its resonant frequencies, as well as fatigue. Fillets were also not included in the original design for the shaft which would have led to high stress concentrations at the changes in diameter.
