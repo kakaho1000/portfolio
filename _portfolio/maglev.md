@@ -14,20 +14,19 @@ tags:
   - Electrical Troubleshooting
 ---
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/maglev.png){: .align-right}
+
 ### Goal 
-Create a magnetic levitator as the final project of the 1-month long MECH 220 technical skills practicum.
+- Create a magnetic levitator as the final project of the 1-month long MECH 220 technical skills practicum
 
 ### Process
-The entire enclosure was manufactured in the machine shop, using mills, lathes, brake presses, power tools, and drills. I also soldered all the components onto the PCB, learning about diodes, transistors, fuses and op-amps, while troubleshooting with an oscilloscope.
+- Manufactured enclosure using mill, lathe, brake press and power tools
+- Soldered components onto PCB, troubleshooting with oscilloscope
 
 ### Results
-By wrapping a coil around a ferrite core and passing current through it, a magnetic field is created, with the hall-effect sensor below varying the current to keep the magnet levitating.
+By wrapping a coil around a ferrite core and passing current through it, a magnetic field is created, with the hall-effect sensor below varying the current to keep the magnet levitating!
 
-### Retrospection
-What better way to teach engineers the importance of reasonable machining tolerances than having them machine parts themselves? I remember redoing a lathed part twice because I had overshot a cut... truly a humbling experience.
-
-<figure>
-  <a href="/portfolio/assets/images/maglev.png" class="image-popup" title="MagLev Project">
-    <img src="/portfolio/assets/images/maglev.png">
-  </a>
+<figure class="half">
+    <a href="/portfolio/assets/images/maglevlathe.png" title="Lathed part"><img src="/portfolio/assets/images/maglevlathe.png"></a>
+    <a href="/portfolio/assets/images/maglevdrawing.png" title="Assembly instructions"><img src="/portfolio/assets/images/maglevdrawing.png"></a>
 </figure>
