@@ -12,7 +12,7 @@ tags:
   - Consultation
   - Onshape
   - Electrical Troubleshooting
-  
+
 ---
 
 <video width="500" height = "400" controls>
@@ -36,7 +36,7 @@ tags:
 - Client was very satisfied with the delivered product
 
 <figure class="third">
-    <a href="/portfolio/assets/images/capstonetesting.jpg" title="Capstone Testing Setup"><img src="/portfolio/assets/images/capstonetesting.jpg"></a>
-    <a href="/portfolio/assets/images/capstoneposter.png" title="Capstone Poster"><img src="/portfolio/assets/images/capstoneposter.png"></a>
+    <a href="/portfolio/assets/images/capstonetesting.png" title="Capstone Testing Setup"><img src="/portfolio/assets/images/capstonetesting.png"></a>
+    <a href="/portfolio/assets/images/capstone2.jpg" title="Device Before Assembly"><img src="/portfolio/assets/images/capstone2.jpg"></a>
     <a href="/portfolio/assets/images/capstone3.jpg" title="Capstone Final Prototype"><img src="/portfolio/assets/images/capstone3.jpg"></a>
 </figure>
