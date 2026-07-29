@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/portfolio/assets/images/capstone3.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/capstone3.jpg){: .align-right}
 
 ### Goal 
 - Integrate a 24V robotic hand with 5V-7.2V myoelectric prosthetic parts
