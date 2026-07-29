@@ -19,9 +19,9 @@ I've worked with a wide variety of hobbyist FDM printer brands, such as Creality
 
 <figure class="half">
     <a href="/portfolio/assets/images/rapidrocketnozzle.jpg" title="UBC Rapid Rocket Nozzle"><img src="/portfolio/assets/images/rapidrocketnozzle.jpg"></a> 
-    <a href="/portfolio/assets/images/ctlguy.jpg" title="Collegiate Tetris League Raffle Prize"><img src="/portfolio/assets/images/ctlguy"></a><figcaption>UBC Rapid rocket nozzle consultation, Collegiate Tetris League raffle prize<figcaption>
+    <a href="/portfolio/assets/images/ctlguy.jpg" title="Collegiate Tetris League Raffle Prize"><img src="/portfolio/assets/images/ctlguy.jpg"></a><figcaption>UBC Rapid rocket nozzle consultation, Collegiate Tetris League raffle prize<figcaption>
 </figure>
 <figure class="half">
     <a href="/portfolio/assets/images/molcarhinge.jpg" title="Pui Pui Molcar Phone Stand"><img src="/portfolio/assets/images/molcarhinge.jpg"></a>
-    <a href="/portfolio/assets/images/chairreplacement.jpg" title="Chair Height Adjustment Handle"><img src="/portfolio/assets/images/ctlguy"></a><figcaption>Phone stand hinge replacement, chair height adjustment handle (white)<figcaption>
+    <a href="/portfolio/assets/images/chairreplacement.jpg" title="Chair Height Adjustment Handle"><img src="/portfolio/assets/images/chairreplacement.jpg"></a><figcaption>Phone stand hinge replacement, chair height adjustment handle (white)<figcaption>
 </figure>
