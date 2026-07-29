@@ -16,28 +16,23 @@ tags:
 ---
 
 ### Goal 
-Design a conveyor belt system with a modular body, using the excess modular belts and sprockets from old conveyors, to support process testing endeavours.
+- Design a conveyor belt system with a modular body to aid process testing initiatives
+- Use excess modular belts and sprockets from old conveyors
+- Produce engineering drawings for manufacturing
 
 ### Process
-
- Research was done on modular conveyor systems online and in the warehouse. The concept revolved around having fixed driven and driving ends with a varying middle portion. A motor was provided, and the control system was not within the scope of the project. 
+- Researched modular conveyors online and in the warehouse 
+- Measured and modelled existing sprockets and belts
+- Sketched and presented concept
+- Modelled and drafted system in Onshape 
 
 ### Results
-The first prototype involved:
-- A square shaft for the driving end that connects to a housed bearing and motor,
-- A 1-inch slot to bolt the driven end's shaft and allow adjustment for the belt tension,
-- Mounting holes in the middle body for accessories,
-- 5 inches of height adjustability in the casters,
-- CNC'd return plastic system that the belt rests on, and
-- connecting plates that can have legs welded to them
+- 3-part system with adjustable middle for differing lengths
+- 5 inches of height adjustability in casters
+- 1-inch slot at driven end's shaft and to belt tension adjustment
+- Delivered BOM and 10+ engineering drawings for waterjet sheet metal, weldments and CNC'd PTFE
 
 <figure class="half">
-    <a href="/portfolio/assets/images/conveyor.png" title="Shortest Conveyor Length"><img src="/portfolio/assets/images/conveyor.png"></a>
-    <a href="/portfolio/assets/images/conveyorlong.png" title="2 Module Conveyor"><img src="/portfolio/assets/images/conveyorlongpng"></a>
+    <a href="/portfolio/assets/images/conveyor.png" title="Conveyor Model"><img src="/portfolio/assets/images/conveyor.png"></a>
+    <a href="/portfolio/assets/images/conveyornobelt.png" title="Conveyor Interior"><img src="/portfolio/assets/images/conveyornobelt.png"></a>
 </figure>
-
-Engineering drawings for bending and waterjet cutting the sheet metal, welding the legs and CNC cutting the plastic were drafted for manufacturing. 
-
-### Retrospection
-
-This has been my largest individual CAD project so far, and I learned a lot about making decisions about clearances, material selection, bolt sizes and manufacturing methods. In hindsight, the bolts on connecting plate are too close to the leg, especially because the leg was meant to be welded onto the plate.
