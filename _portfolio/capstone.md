@@ -15,11 +15,7 @@ tags:
 
 ---
 
-<video width="500" height = "400" controls>
-  <source src="/portfolio/assets/images/capstonevid.mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-</video>
-
+![image-right]({{ site.url }}{{ site.baseurl }}/portfolio/assets/images/capstone3.jpg){: .align-right}
 
 ### Goal 
 - Integrate a 24V robotic hand with 5V-7.2V myoelectric prosthetic parts
@@ -35,8 +31,13 @@ tags:
 - 100% of interested passersby successfully activated the device
 - Client was very satisfied with the delivered product
 
-<figure class="third">
+<figure class="half">
     <a href="/portfolio/assets/images/capstonetesting.png" title="Capstone Testing Setup"><img src="/portfolio/assets/images/capstonetesting.png"></a>
     <a href="/portfolio/assets/images/capstone2.jpg" title="Device Before Assembly"><img src="/portfolio/assets/images/capstone2.jpg"></a>
-    <a href="/portfolio/assets/images/capstone3.jpg" title="Capstone Final Prototype"><img src="/portfolio/assets/images/capstone3.jpg"></a>
 </figure>
+
+
+<video width="800" height = "600" controls>
+  <source src="/portfolio/assets/images/capstonevid.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+</video>
