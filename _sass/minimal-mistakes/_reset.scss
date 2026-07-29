@@ -63,7 +63,8 @@ section {
 audio,
 canvas,
 video {
-  display: inline-block;
+  // display: inline-block;
+  float: right;
 }
 
 /* Prevents modern browsers from displaying 'audio' without controls */
