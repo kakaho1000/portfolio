@@ -15,10 +15,14 @@ tags:
 ---
 
 ### Goal 
-Design an optical distance sensor using op-amps, a photodiode and an LED. Build a C# program to acquire and display data from the distance sensor.
+- Design an optical distance sensor using op-amps, a photodiode and an LED
+- Build an interactive C# program to acquire and display data from the distance sensor
 
 ### Process
-The project involved creating amplifiers, high-pass filters, low-pass filters and rectifiers with specified cut-off frequencies and gains using op-amps, resistors and capacitors. The output voltage is sent to an MSP430 microcontroller, and a C# program reads the voltage and converts it to the distance the photodiode is from the LED. The relationship for the distance between photodiode and the LED was calculated through measuring the output voltage as a function of distance from 1cm to 25cm, and plotting the voltage with respect to the inverse of the distance squared. 
+- Calculated resistor and capacitor values to create amplifiers, filers and rectifiers with op-amps
+- Output voltage from circuit to MSP430 microcontroller
+- Measured output voltage as a function of distance for 25 points to determine relationship
+- Created C# program that reads voltage from microcontroller and converts it to distance 
 
 ### Results
 
