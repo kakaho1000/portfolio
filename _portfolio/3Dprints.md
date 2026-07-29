@@ -3,8 +3,8 @@ title: "3D Prints"
 header:
     teaser: /assets/images/ctlguy.jpg
 excerpt: "Various 3D printed designs"
-date_text: "Current"
-date: 2026-07-18
+date_text: "Ongoing"
+date: 2021-01-01
 categories:
   - Personal Project
 tags:
