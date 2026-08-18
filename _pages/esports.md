@@ -1,7 +1,7 @@
 ---
 title: "Esports"
 sitemap: false
-permalink: /esports.html
+permalink: /esports/
 author_profile: false
 ---
 
