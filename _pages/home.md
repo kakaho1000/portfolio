@@ -37,7 +37,6 @@ sort_order: reverse
 
 <!-- ![image-left]({{ "/assets/images/aboutmephoto.jpg" | relative_url }}){: .align-left} -->
 
-Hello! I am a 2026 UBC Mechanical Engineering graduate from Vancouver, BC, and I'm looking for full-time work. I'm passionate about additive manufacturing, having worked with and designed for FDM 3D printers for 4 years. Check out some of my projects below!
+Hello! I am a 2026 UBC Mechanical Engineering graduate from Vancouver, BC. Check out some of my projects below!
 
 # Projects
-

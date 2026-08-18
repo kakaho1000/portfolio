@@ -269,7 +269,42 @@ body {
     text-decoration: none;
   }
 }
+.media-left,
+.media-right {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  padding: 1em 0;
+}
 
+.media {
+  width: 550px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+
+.text {
+  flex: 1;
+}
+
+.media-left {
+  flex-direction: row;
+}
+
+.media-right {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 900px) {
+  .media-left,
+  .media-right {
+    flex-direction: column;
+  }
+
+  .media {
+    width: 100%;
+  }
+}
 /*
    Social sharing
    ========================================================================== */
@@ -631,3 +666,4 @@ body {
     }
   }
 }
+
