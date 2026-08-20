@@ -13,9 +13,10 @@ As a former top 50 TETR.IO player worldwide, I've been an avid event organizer a
     <iframe
       width="550"
       height="300"
-      src="https://youtu.be/watch?v=RwJCv2DoGG4"
+      src="https://www.youtube-nocookie.com/embed/RwJCv2DoGG4?controls=0"
       title="UBC Symphony Orchestra Games in Music"
       frameborder="0"
+      referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen>
     </iframe>
   </div>
@@ -47,9 +48,10 @@ As a former top 50 TETR.IO player worldwide, I've been an avid event organizer a
     <iframe
       width="550"
       height="300"
-      src="https://youtu.be/watch?v=O5idpZO8sEs"
+      src="https://www.youtube-nocookie.com/embed/O5idpZO8sEs?controls=0"
       title="UBC Gaming Expo 2026"
       frameborder="0"
+      referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen>
     </iframe>
   </div>
